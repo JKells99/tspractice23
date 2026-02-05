@@ -1,0 +1,22 @@
+/dist
+node_modules
+.env
+.DS_Store
+coverage
+.vscode
+.idea
+*.log
+*.tsbuildinfo
+
+# MacOS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Optional npm cache directory
+.npm
+.eslintcache
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
